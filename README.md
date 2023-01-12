@@ -1,1 +1,1 @@
-# ngx-admin-map
+# ngx-admin-demo
